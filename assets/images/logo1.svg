@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="175.608" height="43.216" viewBox="0 0 175.608 43.216">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_53" data-name="Rectangle 53" width="117.588" height="19.599" fill="white"/>
+    </clipPath>
+  </defs>
+  <g id="Group_179" data-name="Group 179" transform="translate(-103 -17.784)">
+    <g id="Group_51" data-name="Group 51" transform="translate(161.02 29.783)">
+      <path id="Path_93" data-name="Path 93" d="M0,.377V16.259l2.078-3.093V.377Z" transform="translate(0 -0.244)" fill="white"/>
+      <path id="Path_94" data-name="Path 94" d="M11.972.377,5.725,9.606l0,0L0,18.137v1.706H1.276L14.431.377Z" transform="translate(0 -0.244)" fill="white"/>
+      <path id="Path_95" data-name="Path 95" d="M21.308,31.53l4.951,7.3h2.485l-6.19-9.159Z" transform="translate(-13.811 -19.233)" fill="white"/>
+      <path id="Path_96" data-name="Path 96" d="M65.556,24.747H54.287V35.534H68.3v-2.08H56.365v-6.6h9.661V24.747Z" transform="translate(-35.187 -16.04)" fill="white"/>
+      <path id="Path_97" data-name="Path 97" d="M56.365.073H54.287V7.564h2.078V2.153H68.09V.073Z" transform="translate(-35.187 -0.047)" fill="white"/>
+      <g id="Group_50" data-name="Group 50" transform="translate(0 0)">
+        <g id="Group_49" data-name="Group 49" clip-path="url(#clip-path)">
+          <path id="Path_98" data-name="Path 98" d="M189.655,13.854h0a10.26,10.26,0,0,0,.793-4.118,10.374,10.374,0,0,0-.792-4.13,8.808,8.808,0,0,0-2.182-3.088A9.45,9.45,0,0,0,184.285.639,11.3,11.3,0,0,0,180.5,0h-3.527V2.11H180.5a8.225,8.225,0,0,1,5.558,1.968,7.217,7.217,0,0,1,2.256,5.66,7.254,7.254,0,0,1-2.247,5.652,8.226,8.226,0,0,1-5.566,1.976h-3.527v2.1H180.5a11.312,11.312,0,0,0,3.782-.635,9.336,9.336,0,0,0,3.19-1.9,8.939,8.939,0,0,0,2.178-3.086" transform="translate(-114.708 -0.003)" fill="white"/>
+          <rect id="Rectangle_52" data-name="Rectangle 52" width="2.078" height="19.468" transform="translate(59)" fill="white"/>
+          <path id="Path_99" data-name="Path 99" d="M225.132,35.925H222.87l-3.112,6.828h2.306l2.165-4.817h9.958l2.172,4.817h2.3l-3.111-6.828Z" transform="translate(-142.437 -23.285)" fill="white"/>
+          <path id="Path_100" data-name="Path 100" d="M235.948,3.557l3.543,7.891h2.25L236.524,0h-1.165l-.229.518h0l-4.984,10.932H232.4Z" transform="translate(-149.171 0)" fill="white"/>
+          <path id="Path_101" data-name="Path 101" d="M286.476.377V2.162L300,17.507V14.336L287.713.377Z" transform="translate(-185.681 -0.245)" fill="white"/>
+          <path id="Path_102" data-name="Path 102" d="M328.3.377v18.48l.835.987h1.244V.377Z" transform="translate(-212.788 -0.245)" fill="white"/>
+          <path id="Path_103" data-name="Path 103" d="M286.476,26.37h2.078V12.837l-2.078-2.391Z" transform="translate(-185.681 -6.771)" fill="white"/>
+          <path id="Path_104" data-name="Path 104" d="M106.391.377V2.105l1.173,1.387,12.353,14.015V14.336L107.63.377Z" transform="translate(-68.958 -0.245)" fill="white"/>
+          <path id="Path_105" data-name="Path 105" d="M148.217,8.166V18.857l.835.987H150.3V.377h-2.079Z" transform="translate(-96.068 -0.244)" fill="white"/>
+          <path id="Path_106" data-name="Path 106" d="M106.391,26.061h2.079V12.43L106.391,9.97Z" transform="translate(-68.958 -6.462)" fill="white"/>
+        </g>
+      </g>
+    </g>
+    <path id="Path_107" data-name="Path 107" d="M13.016,16.3l8.593-6.26L30.19,16.3l-3.031,9.49H16.036ZM28.01,0,26.688.964,11.629,11.953l-.742-2.329L24.078,0H17.949L9.731,6,8.989,3.667,14.016,0H7.82L6.06,5.8l-.2.669.609,1.905,5.559,17.408H9.62L4.685,10.338,2.86,16.356l3.011,9.431H3.466L1.688,20.22,0,25.787l5.336,4.307,20.453-.014-.746,2.335-16.816.013,4.5,3.635,11.152-.008-.747,2.336-7.514.006,5.969,4.818,0,0,0,0,5.428-4.378,6.434-20.154,0-.007,1.92,1.4-5.11,16.15,5.017-4.046,3.146-9.88L40.4,23.736l-1.855,5.809,4.67-3.758L41.13,18.9l.02-.062-.05-.037-1.9-1.386L25.344,7.323l1.969-1.434,12.67,9.234-1.74-5.738L30.379,3.654,32.348,2.22,37.125,5.7,35.4,0Z" transform="translate(103 17.785)" fill="white"/>
+  </g>
+</svg>
